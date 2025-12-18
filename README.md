@@ -10,7 +10,7 @@ This project implements:
 - The **Value Iteration algorithm** to mathematically derive the optimal policy.
 - A **GUI visualization** (Tkinter) to demonstrate the agent's behavior in real-time.
 
-## ⚙️ The Math (MDP Formulation)
+## The Math (MDP Formulation)
 The problem is modeled with the following parameters:
 
 ### 1. State Space
